@@ -1,5 +1,4 @@
 //criar um server que tem como resposta uma página html
-
 //criar uma declaração base
 const http=require('http');
 const fs=require('fs');
